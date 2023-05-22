@@ -28,4 +28,8 @@ To deploy this project run
 ```bash
   npm run deploy
 ```
+#output
 
+![Screenshot 2023-05-22 134643](https://github.com/sukruthi30/portfolio/assets/112972579/2c59f9e3-bf79-416c-9a2f-aa4c32d18d15)
+![Screenshot 2023-05-22 134708](https://github.com/sukruthi30/portfolio/assets/112972579/5c0e5e21-3534-4a35-a7eb-8de7fb0a4486)
+![Screenshot 2023-05-22 134723](https://github.com/sukruthi30/portfolio/assets/112972579/d907fc22-6bd7-4428-b09a-5ac37df55429)
